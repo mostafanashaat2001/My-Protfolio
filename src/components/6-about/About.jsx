@@ -76,8 +76,8 @@ export default function About() {
             <p className="sub-title">
               knowledge (languages, compilers, algorithms, analysis, programming
               structure , problem solving , logic thinking) acquired thru
-              university and I am familiar with REST API and UI/UX technologies
-              and I am proficient in working with Git and Github
+              university and I am familiar with REST API, Hosting and UI/UX
+              technologies and I am proficient in working with Git and Github
             </p>
           </div>
         </div>

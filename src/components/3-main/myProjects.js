@@ -1,9 +1,10 @@
 export const myProjects = [
   {
-    projectTitle: "E-commerce react",
+    projectTitle: "E-commerce",
     category: ["react"],
     imgPath: "./images/1.png",
     link: "http://e-commerce-mostafa-nashaat.surge.sh",
+    gitHub: "https://github.com/mostafanashaat2001/E-commerce.git",
     description:
       "Responsive React app has libraries such as Redux Toolkit, React Router, Bootstrap, and Font Awesome.",
   },
@@ -12,6 +13,7 @@ export const myProjects = [
     category: ["react"],
     imgPath: "./images/2.png",
     link: "http://mostafa-nashaat-portfolio.surge.sh",
+    gitHub: "https://github.com/mostafanashaat2001/My-Protfolio.git",
     description:
       "Responsive React app has libraries such as Framer Motion, Lottie React, Formspree, React Router, and Font Awesome.",
   },
@@ -20,6 +22,7 @@ export const myProjects = [
     category: ["wordpress"],
     imgPath: "./images/3.png",
     link: "https://www.web4u.kesug.com/",
+    // gitHub: "",
     description:
       "Responsive Wordpress website has plugins such like Elementor, Ocean Extra, WPForms, Contact Form Entries.",
   },
@@ -28,6 +31,7 @@ export const myProjects = [
     category: ["css"],
     imgPath: "./images/4.png",
     link: "https://landing-page-mostafa-nashaat.surge.sh/",
+    gitHub: "https://github.com/mostafanashaat2001/Landing-page.git",
     description: "Responsive website using HTML & CSS and has animations.",
   },
   {
@@ -35,6 +39,7 @@ export const myProjects = [
     category: ["js"],
     imgPath: "./images/5.png",
     link: "https://bondi-mostafa-nashaat.surge.sh/",
+    gitHub: "https://github.com/mostafanashaat2001/bondi.git",
     description:
       "Responsive website using HTML & CSS & JavaScript & Bootstrap.",
   },
@@ -43,6 +48,7 @@ export const myProjects = [
     category: ["js"],
     imgPath: "./images/6.png",
     link: "https://special-website-mostafa-nashaat.surge.sh/",
+    gitHub: "https://github.com/mostafanashaat2001/Special-website.git",
     description: "website using HTML & CSS & JavaScript.",
   },
 
@@ -51,6 +57,8 @@ export const myProjects = [
     category: ["js"],
     imgPath: "./images/7.png",
     link: "http://product-management-system-mostafa-nashaat.surge.sh",
+    gitHub:
+      "https://github.com/mostafanashaat2001/Product-Management-Sestym.git",
     description: "website using HTML & CSS & JavaScript.",
   },
 ];
