@@ -1,0 +1,32 @@
+.about h1.title {
+  color: var(--title);
+  padding: 10px 0;
+}
+.sub-title {
+  color: var(--subtitle);
+}
+li {
+  padding: 8px 0;
+}
+i {
+  padding-right: 5px;
+}
+p {
+  line-height: 1.5;
+}
+p > span {
+  font-weight: bold;
+  font-size: 20px;
+}
+@media (max-width: 600px) {
+  ul,
+  p {
+    font-size: small;
+  }
+  h1 {
+    font-size: larger;
+  }
+  span {
+    font-size: medium !important;
+  }
+}
