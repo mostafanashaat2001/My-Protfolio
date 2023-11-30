@@ -33,24 +33,6 @@ const Main = () => {
         >
           all projects
         </button>
-
-        <button
-          onClick={() => {
-            handleClick("css");
-          }}
-          className={currentActive === "css" ? "active" : null}
-        >
-          HTML & CSS
-        </button>
-
-        <button
-          onClick={() => {
-            handleClick("js");
-          }}
-          className={currentActive === "js" ? "active" : null}
-        >
-          JavaScript
-        </button>
         <button
           onClick={() => {
             handleClick("react");
@@ -61,11 +43,35 @@ const Main = () => {
         </button>
         <button
           onClick={() => {
+            handleClick("next");
+          }}
+          className={currentActive === "next" ? "active" : null}
+        >
+          Next JS
+        </button>
+        <button
+          onClick={() => {
+            handleClick("js");
+          }}
+          className={currentActive === "js" ? "active" : null}
+        >
+          JavaScript
+        </button>
+        <button
+          onClick={() => {
             handleClick("wordpress");
           }}
           className={currentActive === "wordpress" ? "active" : null}
         >
           Wordpress
+        </button>
+        <button
+          onClick={() => {
+            handleClick("css");
+          }}
+          className={currentActive === "css" ? "active" : null}
+        >
+          HTML & CSS
         </button>
       </section>
 

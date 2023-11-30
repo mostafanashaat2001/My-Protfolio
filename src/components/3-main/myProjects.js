@@ -18,9 +18,18 @@ export const myProjects = [
       "Responsive React app has libraries such as Framer Motion, Lottie React, Formspree, React Router, and Font Awesome.",
   },
   {
+    projectTitle: "E-commerce Next App",
+    category: ["next"],
+    imgPath: "./images/3.png",
+    link: "http://mostafa-nashaat-portfolio.surge.sh",
+    gitHub: "https://github.com/mostafanashaat2001/My-Protfolio.git",
+    description:
+      "Responsive React app has libraries such as Framer Motion, Lottie React, Formspree, React Router, and Font Awesome.",
+  },
+  {
     projectTitle: "Company Website",
     category: ["wordpress"],
-    imgPath: "./images/3.png",
+    imgPath: "./images/4.png",
     link: "https://www.web4u.kesug.com/",
     // gitHub: "",
     description:
@@ -29,7 +38,7 @@ export const myProjects = [
   {
     projectTitle: "landing-page",
     category: ["css"],
-    imgPath: "./images/4.png",
+    imgPath: "./images/5.png",
     link: "https://landing-page-mostafa-nashaat.surge.sh/",
     gitHub: "https://github.com/mostafanashaat2001/Landing-page.git",
     description: "Responsive website using HTML & CSS and has animations.",
@@ -37,7 +46,7 @@ export const myProjects = [
   {
     projectTitle: "bondi",
     category: ["js"],
-    imgPath: "./images/5.png",
+    imgPath: "./images/6.png",
     link: "https://bondi-mostafa-nashaat.surge.sh/",
     gitHub: "https://github.com/mostafanashaat2001/bondi.git",
     description:
@@ -46,7 +55,7 @@ export const myProjects = [
   {
     projectTitle: "special website",
     category: ["js"],
-    imgPath: "./images/6.png",
+    imgPath: "./images/7.png",
     link: "https://special-website-mostafa-nashaat.surge.sh/",
     gitHub: "https://github.com/mostafanashaat2001/Special-website.git",
     description: "website using HTML & CSS & JavaScript.",
@@ -55,7 +64,7 @@ export const myProjects = [
   {
     projectTitle: "product management system",
     category: ["js"],
-    imgPath: "./images/7.png",
+    imgPath: "./images/8.png",
     link: "http://product-management-system-mostafa-nashaat.surge.sh",
     gitHub:
       "https://github.com/mostafanashaat2001/Product-Management-Sestym.git",
