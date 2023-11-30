@@ -21,10 +21,9 @@ export const myProjects = [
     projectTitle: "E-commerce Next App",
     category: ["next"],
     imgPath: "./images/3.png",
-    link: "http://mostafa-nashaat-portfolio.surge.sh",
-    gitHub: "https://github.com/mostafanashaat2001/My-Protfolio.git",
-    description:
-      "Responsive React app has libraries such as Framer Motion, Lottie React, Formspree, React Router, and Font Awesome.",
+    link: "https://e-commerce-next-app-seven.vercel.app/",
+    gitHub: "https://github.com/mostafanashaat2001/E-commerce-Next-App.git",
+    description: "Responsive Next app Using Next Js Framework and Bootstrap",
   },
   {
     projectTitle: "Company Website",
