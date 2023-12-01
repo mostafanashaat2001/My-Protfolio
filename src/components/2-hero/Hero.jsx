@@ -34,11 +34,10 @@ const Hero = () => {
         </motion.h1>
 
         <p className="sub-title">
-          Front End developer, I am proficient in a variety of platforms and
-          systems. In addition to my technical skills, I am a great communicator
-          and team player. My ability to communicate well enables me to work
-          effectively with clients to identify objectives and requirements for
-          applications.
+          Web developer, I am proficient in a variety of platforms and systems.
+          In addition to my technical skills, I am a great communicator and team
+          player. My ability to communicate well enables me to work effectively
+          with clients to identify objectives and requirements for applications.
         </p>
 
         <div className="all-icons flex">
